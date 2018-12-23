@@ -1,0 +1,5 @@
+exp_need = int(input("How many experience do you need ?  "))
+exp_now  = int(input("How many experience do you have ?  "))
+exp_5second = int(input("How many experience get per 5 second ?  "))
+timeneed = (exp_need - exp_now) / (exp_5second * 12 * 60)
+print(timeneed)

@@ -1,4 +1,41 @@
-# python命令集
+## python命令集
+
+### 字符串
+
+- Str.title() 以 首 字 母 大 写 的 方 式 显 示 每 个 单 词；
+- str.upper() 全部大写；
+- str.lower() 全部小写；
+- str.rstrip() 去掉字符串末尾(右边)的空白；
+- str.lstrip() 去掉字符串开头(左边)的空白；
+- str.strip() 去掉字符串开头和末尾多余的空白；
+- Str() 将非字符串转换为字符串；
+
+------
+
+### 列表
+
+- Array.append( ) 列表末尾添加元素 ；
+- Array.insert(index,  ) 在指定索引位置添加元素；
+- del array[index] 删除指定位置的元素；
+- Array.pop( ) 删除末尾的元素；
+- Array.pop(index,  ) 删除指定位置的元素；
+- Array.remove( ) 删除指定值的元素；
+- Array.sort(reverse=False/True)  按字母顺序排序，改变原顺序
+- sorted(array) 临时按字母顺序排序，不改变原顺序
+- Array.reverse() 反转列表元素的排列顺序（不是字母顺序相反，是倒着排）
+- len(array) 列表的长度
+- range() 生成一系列的数字
+- min() 找出最小值
+- max() 找出最大值
+- sum() 找出总和
+
+### 字典
+
+
+
+
+
+------
 
 ## django project
 
