@@ -32,7 +32,17 @@
 ### 字典
 
 - del hash[key] 删除键值队
-- 
+- 切 片 表 示 法[:] 创 建 列 表 的 副 本
+
+
+### 导入函数
+
+- import module_name导入模块
+- module_name.function_name()来使用模块中任何一个函数
+- from module_name import function_name  导入特定的函数
+- from module_name import  \*  导入模块中的所有函数  
+- import module_name as p 指定模块的别名
+- from module_name import function_name as fn 指定函数的别名
 
 
 

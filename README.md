@@ -22,3 +22,6 @@
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea -- let's do more of those!
 
+技巧
+- 脚本有汉字需要用以下代码开头，否则以后可能会无法打开。   #-\*-           coding: UTF-8 -\*-
+
