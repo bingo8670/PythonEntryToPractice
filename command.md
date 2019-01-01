@@ -44,6 +44,11 @@
 - import module_name as p 指定模块的别名
 - from module_name import function_name as fn 指定函数的别名
 
+### 文件
+
+- windows系统的文件路径用\，Linux和OS X系统等文件路径用/
+- 
+
 
 
 ------
