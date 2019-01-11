@@ -1,1 +1,4 @@
+# 编译文件
 __pycache__/
+*.pyc
+.DS_Store

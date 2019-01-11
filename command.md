@@ -59,6 +59,10 @@
 | assertIn(item, list)    |  核实item在list中  |
 | assertNotIn(item, list) | 核实item不在list中 |
 
+- 测试通过时打印一个句点；
+- 测试引发错误时打印一个E；
+- 测试导致断言失败时打印一个F。
+
 
 
 ------

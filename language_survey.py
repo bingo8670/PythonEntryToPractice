@@ -1,10 +1,10 @@
 #! python3
 # -*- coding:utf-8 -*-
-from survey import AnonymousSurvey
+from survey import AnonmyousSurvey
 
-# 定义一个问题，并创建一个表示调查的AnonymousSurvey对象
+# 定义一个问题，并创建一个表示调查的AnonmyousSurvey对象
 question = "What language did you first learn to speak?"
-my_survey = AnonymousSurvey(question)
+my_survey = AnonmyousSurvey(question)
 
 # 显示问题并存储答案
 my_survey.show_question()

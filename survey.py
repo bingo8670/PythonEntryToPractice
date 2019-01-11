@@ -1,6 +1,6 @@
 #! python3
 # -*- coding:utf-8 -*-
-class AnonymousSurvey():
+class AnonmyousSurvey():
     """收集匿名调查问卷的答案"""
     def __init__(self, question):
         """存储一个问题，并为存储答案做准备"""
