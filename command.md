@@ -47,7 +47,17 @@
 ### 文件
 
 - windows系统的文件路径用\，Linux和OS X系统等文件路径用/
-- 
+
+### 测试unittest
+
+| 方法                    |        用途        |
+| :---------------------- | :----------------: |
+| assertEqual(a, b)       |     核实a == b     |
+| assertNotEqual(a, b)    |     核实a != b     |
+| assertTrue(x)           |    核实x为True     |
+| assertFalse(x)          |    核实x为False    |
+| assertIn(item, list)    |  核实item在list中  |
+| assertNotIn(item, list) | 核实item不在list中 |
 
 
 
