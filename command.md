@@ -10,6 +10,19 @@
 - str.strip() 去掉字符串开头和末尾多余的空白；
 - Str() 将非字符串转换为字符串；
 
+### 模块
+
+- csv
+- datetime
+- json
+- os
+- pygal
+- pygame
+- sys
+- time
+
+
+
 ------
 
 ### 列表
